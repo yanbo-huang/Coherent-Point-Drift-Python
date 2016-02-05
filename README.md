@@ -1,5 +1,5 @@
 # Coherent-Point-Drift-Python
-This is the course project of Medical Visualization. The main goal of this project is to reimplement Coherent Point Drift using python.This project is supervised by [Clinical Graphics](https://www.clinicalgraphics.com/)
+This is the course project of Medical Visualization. The main goal of this project is to reimplement Coherent Point Drift using python.
 
 ## Schedule
 **week1:** Working example (prototype)(**21/12/2015**)  
